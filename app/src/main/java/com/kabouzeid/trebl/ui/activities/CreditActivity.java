@@ -25,8 +25,8 @@ public class CreditActivity extends AppCompatActivity {
     LinearLayout TreblOnGithub;
     LinearLayout PrivacyPolicy;
 
-    private static String TREBLGITHUB = "https://github.com/treblmusic/player";
-    private static String PRIVACYPOLICY = "https://github.com/treblmusic/player/blob/main/privacy%20policy";
+    private static String TREBLGITHUB = "https://github.com/treblmusic/music-player";
+    private static String PRIVACYPOLICY = "https://github.com/treblmusic/music-player/blob/master/privacy%20policy";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
